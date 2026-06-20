@@ -72,4 +72,6 @@ plt.bar(x, p)
 plt.xlabel("Position x")
 plt.ylabel("Probability")
 plt.title("Quantum Walk at t=100")
+
+plt.savefig("quantum_walk_t100.png")
 plt.show()           
