@@ -12,4 +12,5 @@ One-dimensional discrete-time quantum walk simulation written in Python.
 
 This project was created while studying quantum information and quantum walks.
 
+## Result
 ![Quantum Walk Distribution](quantum_walk_t100.png)
